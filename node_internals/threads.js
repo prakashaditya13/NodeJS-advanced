@@ -1,3 +1,5 @@
+process.env.UV_THREADPOOL_SIZE = 2
+
 const crypto = require('crypto')
 
 // The result of time function may be different according to your CPU 
