@@ -1,0 +1,3 @@
+Improving the Node performances:-
+1) Use Node Cluster Mode(It is recommended):- It can creates multiple instances of node so we have a multiple event loops to be executed.
+2) Use Worker Threads(It is experimental)
